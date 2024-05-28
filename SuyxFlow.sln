@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuyxFlow.Api", "SuyxFlow.Api\SuyxFlow.Api.csproj", "{DE8BFCF1-079B-4396-B4A8-AFB67F63EDE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuyxFlow.Core", "SuyxFlow.Core\SuyxFlow.Core.csproj", "{40D0F402-0E93-46C0-805D-CCDB2C1B825D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuyxFlow.Web", "SuyxFlow.Web\SuyxFlow.Web.csproj", "{4C8EBD9C-5EE2-4E2F-B0BA-87060C6A201F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE8BFCF1-079B-4396-B4A8-AFB67F63EDE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE8BFCF1-079B-4396-B4A8-AFB67F63EDE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE8BFCF1-079B-4396-B4A8-AFB67F63EDE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE8BFCF1-079B-4396-B4A8-AFB67F63EDE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40D0F402-0E93-46C0-805D-CCDB2C1B825D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40D0F402-0E93-46C0-805D-CCDB2C1B825D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40D0F402-0E93-46C0-805D-CCDB2C1B825D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40D0F402-0E93-46C0-805D-CCDB2C1B825D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C8EBD9C-5EE2-4E2F-B0BA-87060C6A201F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C8EBD9C-5EE2-4E2F-B0BA-87060C6A201F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C8EBD9C-5EE2-4E2F-B0BA-87060C6A201F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C8EBD9C-5EE2-4E2F-B0BA-87060C6A201F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
